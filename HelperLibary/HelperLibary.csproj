@@ -3,6 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>IAmAnaHelena.Helpders</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>IAmAnaHelena.HelperLibary</PackageId>
+    <Authors>Ana Helena</Authors>
+    <Product>Ana Helena's Helper Libary</Product>
+    <Description>This is my description of my helper library. ( Inspired by https://www.youtube.com/watch?v=AF1y9gLcxjQ)</Description>
+    <Copyright>2021</Copyright>
+    <PackageProjectUrl>https://iamanahelena.com/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/anahelenasilva/NugetDemo/</RepositoryUrl>
+    <PackageTags>Ana Helena Calculations Helpers</PackageTags>
+    <PackageReleaseNotes>This is the initial release</PackageReleaseNotes>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
